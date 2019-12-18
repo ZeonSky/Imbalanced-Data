@@ -1,2 +1,4 @@
 # Imbalanced-Data
-A Collection of Methods for Dealing with Imbalanced Data
+
+Motivation:  
+I create this repository to start my study of top Kaggle winning solutions that deals with imbalanced data.
