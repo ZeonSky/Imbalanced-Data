@@ -1,2 +1,2 @@
 # Imbalanced-Data
-A collection of solution for imbalanced data
+A Collection of Methods for Dealing with Imbalanced Data
